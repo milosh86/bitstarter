@@ -1,2 +1,17 @@
-["h1", ".navigation"]
+["h1", 
+ ".navigation",
+ ".order",
+ ".logo",
+".blank",
+".about",
+".heading",
+".subheading",
+".pitch",
+".video",
+".thermometer",
+".social",
+".section1",
+".section2",
+".faq",
+".footer"]
 
